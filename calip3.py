@@ -12,6 +12,10 @@ null = 1
 keyTrig1 = 1
 keyTrig2 = 1
 
+## This is a comment - define your functions here....
+
+## Make your nested fucntions here....
+
 while True:
     while True:
         answer = input('Type y to continue (y/n): ')
